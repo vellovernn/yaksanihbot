@@ -56,7 +56,7 @@ redis>=3.3.10
 PyDrive2
 pyDownload
 beautifulsoup4>=4.8.1
-youtube-dl
+youtube-dl>=2021.02.04.1
 PyGithub
 bs4
 covid>=2.2.9
@@ -94,5 +94,5 @@ wordcloud
 scikit-image
 pendulum
 opencv-python
-youtube-search-python
-youtube-search
+youtube-search-python>=1.3.2
+youtube-search>=1.1.1
