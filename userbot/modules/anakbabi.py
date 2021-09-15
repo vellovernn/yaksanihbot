@@ -180,7 +180,7 @@ CMD_HELP.update(
 )
 
 CMD_HELP.update({
-    "scraper":
+    "anakbabi":
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.getmemb`\
    \nUsage : Mengumpulkan Babi dari Obrolan\
    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.addmemb`\
