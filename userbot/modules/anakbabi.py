@@ -78,7 +78,7 @@ async def get_users(event):
     async for user in event.client.iter_participants(anakbabi.full_chat.id):
         try:
             if error.startswith("Too"):
-                return await geez.edit(f"**Ooo asu limit**\n(`Error ya babi coba lagi nanti
+                return await kimak.edit(f"**Ooo asu limit**\n(`Error ya babi coba lagi nanti
 `)\n**Error** : \n`{error}`\n\n• Invited `{s}` people \n• Failed to Invite `{f}` people")
             await event.client(functions.channels.InviteToChannelRequest(channel=chat, users=[user.id]))
             s = s + 1
