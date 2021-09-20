@@ -231,7 +231,7 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f"**┣•{KAMPANG_TEKS_KUSTOM}•┫\n"
+        f"**┣•No Alive WithOut Money•┫\n"
         f"   **╭✠╼━━━━━━❖━━━━━━━✠╮**\n"
         f"         **☬ 𝐘𝐀𝐊𝐒𝐀 - 𝐍𝐈𝐇 ☬** \n\n"
         f"   **╰✠╼━━━━━━❖━━━━━━━✠╯**\n"
