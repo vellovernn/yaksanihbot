@@ -20,12 +20,12 @@ async def help(event):
         if args in CMD_HELP:
             await event.edit(str(CMD_HELP[args]))
         else:
-            await event.edit("**Module Salah KAMPAAAANGGGGG!!**")
+            await event.edit("**Module Anda Salah Tuan**")
             await asyncio.sleep(18)
             await event.delete()
     else:
         await event.edit(f"**╭►▻►▻►▻►▻►▻►◄◅◄◅◄◅◄◅◄◅╮**\
-            \n│   Help for [🐨BOT KAMPANG🐨]\
+            \n│   Help for [💸YAKSA - NIH💸]\
             \n╰►▻►▻►▻►▻►▻►◄◅◄◅◄◅◄◅◄◅╯ \
             \n╭►▻►▻►▻►▻►▻►◄◅◄◅◄◅◄◅◄◅╮\
             \n│   Untuk melihat lengkap Command\
