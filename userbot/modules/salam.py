@@ -34,9 +34,9 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit(f"**JAKA SEMBUNG BAWA GOLOK**")
+    await typew.edit(f"**Come To Make Love With Me Babe**")
     sleep(3)
-    await typew.edit("`NIMBRUNG GOBLOKK!!!`")
+    await typew.edit("`Lets Having sex / give me your boddy`")
 # Owner @Si_Dian
 
 
@@ -44,9 +44,9 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit(f"**Hallo KIMAAKK SAYA {DEFAULTUSER}**")
+    await typew.edit(f"**Hi Cantik! saya {DEFAULTUSER}💸**")
     sleep(2)
-    await typew.edit("`KONTOLLL.....`")
+    await typew.edit("`Btw, bagi pap tt cantik`")
 # Owner @Si_Dian
 
 
